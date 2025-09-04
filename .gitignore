@@ -1,0 +1,9 @@
+node_modules
+dist
+*.sqlite
+*.log
+.DS_Store
+.env
+client/node_modules
+server/node_modules
+mcp-server/node_modules
