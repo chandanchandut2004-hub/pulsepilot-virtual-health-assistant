@@ -1,6 +1,7 @@
 {
   "name": "pulsepilot-mcp-server",
   "version": "0.1.0",
+<<<<<<< HEAD
   "private": true,
   "type": "module",
   "scripts": {
@@ -25,4 +26,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
+=======
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.1"
+  }
+>>>>>>> c487ee42881640528d907991c9627b43760fe267
 }
