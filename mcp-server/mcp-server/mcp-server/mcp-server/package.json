@@ -1,9 +1,9 @@
 {
-  "name": "pulsepilot-mcp-server",
-  "version": "0.1.0",
-  "main": "index.js",
+  "name": "mcp-server",
+  "version": "1.0.0",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.18.2",
